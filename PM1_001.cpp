@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello! VisualStudio Git! pullRequest\n";
+    std::cout << "Hello! VisualStudio Git! clone\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
